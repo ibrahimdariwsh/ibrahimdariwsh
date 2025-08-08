@@ -39,5 +39,5 @@ Check out my projects below whithin the repositories
 
 I'm always open to connecting with fellow data enthusiasts, collaborators, and opportunities in data analytics!
 
-- [LinkedIn](www.linkedin.com/in/ibrahim-issa-darwish)
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-issa-darwish/)
 - [Email](mailto:ibrahimdarwish11@outlook.com)  
